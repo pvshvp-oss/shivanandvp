@@ -1,8 +1,11 @@
+![Profile Views](https://komarev.com/ghpvc/?username=shivanandvp&color=blue&label=Profile+Views)
+![Preferred License](https://img.shields.io/badge/Preferred%20License-MPL--2.0-green)
+
 ## Get in touch with me
 
-[![Discord Server](https://dcbadge.vercel.app/api/server/vFG57wDxsd?style=flat)](https://discord.gg/vFG57wDxsd)
-[![Discord Server](https://dcbadge.vercel.app/api/server/cU5s6MPpQH?style=flat)](https://discord.gg/cU5s6MPpQH)
-[![Discourse users](https://img.shields.io/discourse/users?label=RebornOS%20Forum&logo=discourse&server=https%3A%2F%2Frebornos.discourse.group)](https://rebornos.discourse.group/)
+[![Paxy Discord Server](https://dcbadge.vercel.app/api/server/vFG57wDxsd?style=flat)](https://discord.gg/vFG57wDxsd)
+[![RebornOS Discord Server](https://dcbadge.vercel.app/api/server/cU5s6MPpQH?style=flat)](https://discord.gg/cU5s6MPpQH)
+[![RebornOS Forum](https://img.shields.io/discourse/users?label=RebornOS%20Forum&logo=discourse&server=https%3A%2F%2Frebornos.discourse.group)](https://rebornos.discourse.group/)
 [![Matrix](https://img.shields.io/matrix/rebornos:matrix.org?label=RebornOS%20Matrix&logo=matrix&server_fqdn=matrix.org)](https://matrix.to/#/#rebornos:matrix.org)
 
 ## Tools and technology that I have worked on:
